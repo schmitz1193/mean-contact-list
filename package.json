@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Mean stack tutorial contact list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmitz1193/mean-contact-list.git"
+  },
+  "author": "Stephanie Krause <schmitz1193@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schmitz1193/mean-contact-list/issues"
+  },
+  "homepage": "https://github.com/schmitz1193/mean-contact-list#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
