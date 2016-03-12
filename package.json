@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/schmitz1193/mean-contact-list#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0"
   }
 }
